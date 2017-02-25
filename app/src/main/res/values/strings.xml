@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">Kiki</string>
-    <string name="msg_accueil">"C'est qui qui fera ce que personne n'a envie de faire ?\n\nAppuie sur le bitonio et découvre ton sauveur !"</string>
+    <string name="msg_accueil">"Qui est-ce qui fera la vaisselle, cuisinera des crêpes à toute la bande ou dira enfin à Pierre-Benoît qu'il pue des pieds ?\n\nUne seule façon de le savoir :\nCliquez sur le bitonio !"</string>
     <string name="btn_accueil">"C'est parti mon kiki"</string>
+    <string name="message_kiki">"Kiki a les plus longues chaussures."</string>
 </resources>

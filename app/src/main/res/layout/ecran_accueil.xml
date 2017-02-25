@@ -30,7 +30,7 @@
         android:layout_height="wrap_content"
         android:scrollbars="vertical"
         android:fillViewport="true"
-        android:layout_above="@+id/cestParti"
+        android:layout_above="@+id/cest_Parti"
         android:layout_below="@+id/imageView1">
         <TextView
             android:layout_width="wrap_content"
@@ -47,7 +47,7 @@
         android:text="@string/btn_accueil"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/cestParti"
+        android:id="@+id/cest_Parti"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true" />
 

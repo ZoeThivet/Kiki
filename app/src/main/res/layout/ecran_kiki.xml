@@ -16,26 +16,26 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:adjustViewBounds="true"
-        android:maxWidth="100dp"
-        android:maxHeight="100dp"
+        android:maxWidth="95dp"
+        android:maxHeight="95dp"
         android:scaleType="fitCenter"
         android:layout_marginBottom="30dp"
-        app:srcCompat="@drawable/logo_kiki"
+        android:src="@drawable/kiki"
         android:id="@+id/imageView1"
         android:layout_centerHorizontal="true" />
-
+    <!--app:srcCompat="@drawable/kiki"-->
     <ScrollView
         android:id="@+id/SCROLLER_ID"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:scrollbars="vertical"
         android:fillViewport="true"
-        android:layout_above="@+id/cestParti"
+        android:layout_above="@+id/ca_me_deplait"
         android:layout_below="@+id/imageView1">
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/msg_accueil"
+            android:text="@string/message_kiki"
             android:gravity="start"
             android:textSize="20sp"
             android:id="@+id/text1"
@@ -44,10 +44,10 @@
 
 
     <Button
-        android:text="@string/btn_accueil"
+        android:text="Ca me déplaît"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/cestParti"
+        android:id="@+id/ca_me_deplait"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true" />
 
