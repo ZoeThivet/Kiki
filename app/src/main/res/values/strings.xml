@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kiki</string>
+    <string name="msg_accueil">"C'est qui qui fera ce que personne n'a envie de faire ?\n\nAppuie sur le bitonio et découvre ton sauveur !"</string>
+    <string name="btn_accueil">"C'est parti mon kiki"</string>
+</resources>
