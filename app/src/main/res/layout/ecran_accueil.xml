@@ -15,30 +15,41 @@
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        app:srcCompat="@android:drawable/btn_star_big_on"
-        android:layout_alignParentTop="true"
-        android:layout_centerHorizontal="true"
-        android:id="@+id/imageView" />
+        android:adjustViewBounds="true"
+        android:maxWidth="100dp"
+        android:maxHeight="100dp"
+        android:scaleType="fitCenter"
+        android:layout_marginBottom="30dp"
+        app:srcCompat="@drawable/logo_kiki"
+        android:id="@+id/imageView1"
+        android:layout_centerHorizontal="true" />
 
-    <TextView
+    <ScrollView
+        android:id="@+id/SCROLLER_ID"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/msg_accueil"
-        android:gravity="left"
-        android:textSize="20sp"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:id="@+id/textView"
-        android:layout_above="@+id/button"
-        android:layout_alignParentRight="true"
-        android:layout_alignParentEnd="true"
-        android:layout_below="@+id/imageView" />
+        android:scrollbars="vertical"
+        android:fillViewport="true"
+        android:layout_above="@+id/cestParti"
+        android:layout_below="@+id/imageView1">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/msg_accueil"
+            android:gravity="start"
+            android:textSize="20sp"
+            android:id="@+id/text1"
+             />
+    </ScrollView>
+
 
     <Button
         android:text="@string/btn_accueil"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/button"
+        android:id="@+id/cestParti"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true" />
+
+
 </RelativeLayout>
