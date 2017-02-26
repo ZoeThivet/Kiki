@@ -6,6 +6,7 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
+import android.widget.ImageView;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -17,8 +18,16 @@ public class MainActivity extends AppCompatActivity {
         btn_cest_parti.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Log.i("Kiki", "C'est kiki !");
                 Intent intent = new Intent (MainActivity.this, Kiki.class);
+                startActivity(intent);
+            }
+        });
+
+        ImageView btn_info = (ImageView) findViewById(R.id.btn_info);
+        btn_info.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent (MainActivity.this, Aide.class);
                 startActivity(intent);
             }
         });

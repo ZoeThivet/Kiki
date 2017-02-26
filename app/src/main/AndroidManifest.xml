@@ -17,6 +17,7 @@
             </intent-filter>
         </activity>
         <activity android:name=".Kiki"></activity>
+        <activity android:name=".Aide"></activity>
     </application>
 
 </manifest>

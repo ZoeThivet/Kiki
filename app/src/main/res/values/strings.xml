@@ -1,6 +1,16 @@
 <resources>
     <string name="app_name">Kiki</string>
-    <string name="msg_accueil">"Qui est-ce qui fera la vaisselle, cuisinera des crêpes à toute la bande ou dira enfin à Pierre-Benoît qu'il pue des pieds ?\n\nUne seule façon de le savoir :\nCliquez sur le bitonio !"</string>
+
+    <string name="msg_accueil">"Qui est-ce qui fera la vaisselle, cuisinera des crêpes à toute la bande ou dira enfin à Pierre-Benoît qu'il pue des pieds ?\n\nUne seule façon de le savoir :\nClique sur le bitonio !"</string>
     <string name="btn_accueil">"C'est parti mon kiki"</string>
-    <string name="message_kiki">"Kiki a les plus longues chaussures."</string>
+
+    <string name="msg_kiki">"Kiki a les plus longues chaussures."</string>
+    <string name="btn_ca_me_deplait">"Ca me déplaît"</string>
+
+    <string name="msg_aide">"La survie de l'espèce humaine dépend des actes que chacun de nous sommes prêts à réaliser pour la communauté.
+Comme nous ne sommes pas capables de le comprendre, nous avons inventé l'argent pour nous donner une raison de faire notre part.
+Malheureusement, au sein de groupes informels d'êtres humains, certains actes ne sont pas rémunérés vénalement.
+Comment donc déterminer quel sera le grand coeur qui se dévouera au bien-être collectif ?
+Kiki est là pour vous dévoiler son identité. Maintenant va, vil humain, et sache que la mesquinerie ne sied pas à ton coeur qui pourrait être large et magnanime."</string>
+    <string name="btn_jy_retourne">"Ok j'ai pigé"</string>
 </resources>
