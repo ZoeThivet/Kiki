@@ -24,4 +24,3 @@ Kiki a le plus grand téléphone (on mesure la longueur, pas la largeur)
 Kiki a le plus petit téléphone (on mesure la longueur, pas la largeur)
 Kiki a les chaussettes les plus colorées
 Kiki a eu le moins de kiki
-Kiki qui rigole le plus
