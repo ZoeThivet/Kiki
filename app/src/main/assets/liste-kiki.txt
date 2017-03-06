@@ -31,3 +31,7 @@ Kiki est celui ou celle qui parle le plus
 Kiki est celui ou celle qui parle le moins
 Kiki a le plus de mails dans sa boîte de réception principale (on ne compte pas les spams)
 Kiki a le moins de mails dans sa boîte de réception principale (on ne compte pas les spams)
+Kiki a le plus de sous dans son portefeuille (carte de crédit compte pas)
+Kiki a le moins de sous dans son portefeuille (carte de crédit compte pas)
+Kiki a le plus de grain de beauté
+Kiki a le moins de grain de beauté
