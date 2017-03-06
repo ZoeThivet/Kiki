@@ -1,4 +1,4 @@
-Kiki a les plus grandes chaussures.
+﻿Kiki a les plus grandes chaussures.
 Kiki est né(e) le plus tôt dans l'année (ex : le 1er janvier à 00:01)
 Kiki a fêté son anniversaire le plus récemment (ex : aujourd'hui)
 Kiki fêtera son anniversaire dans le plus de temps (ex : dans 364 jours)
@@ -22,3 +22,4 @@ Kiki est celui ou celle qui est né(e) le plus ? l'Est
 Kiki est celui ou celle qui est né(e) le plus ? l'Ouest
 Kiki a le plus grand téléphone (on mesure la longueur, pas la largeur)
 Kiki a le plus petit téléphone (on mesure la longueur, pas la largeur)
+Kiki a les chaussettes les plus colorées
