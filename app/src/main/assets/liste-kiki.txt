@@ -2,7 +2,7 @@
 Kiki est né(e) le plus tôt dans l'année (ex : le 1er janvier à 00:01)
 Kiki a fêté son anniversaire le plus récemment (ex : aujourd'hui)
 Kiki fêtera son anniversaire dans le plus de temps (ex : dans 364 jours)
-Kiki est le ou la plus jeune (ayant le droit de r?aliser la tâche ingrate en question)
+Kiki est le ou la plus jeune (ayant le droit de réaliser la tâche ingrate en question)
 Kiki est le ou la plus âgé(e)
 Kiki a le moins d'amis Facebook (et c'est tout à son honneur)
 Kiki a le plus d'amis Facebook
@@ -18,8 +18,8 @@ Kiki a produit le son de voix le plus grave des 5 dernières minutes
 Kiki a produit le son de voix le plus aigu des 5 dernières minutes
 Kiki est celui ou celle qui est né(e) le plus au Nord
 Kiki est celui ou celle qui est né(e) le plus au Sud
-Kiki est celui ou celle qui est né(e) le plus ? l'Est
-Kiki est celui ou celle qui est né(e) le plus ? l'Ouest
+Kiki est celui ou celle qui est né(e) le plus à l'Est
+Kiki est celui ou celle qui est né(e) le plus à l'Ouest
 Kiki a le plus grand téléphone (on mesure la longueur, pas la largeur)
 Kiki a le plus petit téléphone (on mesure la longueur, pas la largeur)
 Kiki a les chaussettes les plus colorées
@@ -31,7 +31,14 @@ Kiki est celui ou celle qui parle le plus
 Kiki est celui ou celle qui parle le moins
 Kiki a le plus de mails dans sa boîte de réception principale (on ne compte pas les spams)
 Kiki a le moins de mails dans sa boîte de réception principale (on ne compte pas les spams)
-Kiki a le plus de sous dans son portefeuille (carte de crédit compte pas)
-Kiki a le moins de sous dans son portefeuille (carte de crédit compte pas)
-Kiki a le plus de grain de beauté
-Kiki a le moins de grain de beauté
+Kiki a le plus de sous dans son portefeuille (les cartes de crédit et les chèques ne comptent pas)
+Kiki a le moins de sous dans son portefeuille (les cartes de crédit et les chèques ne comptent pas)
+Kiki a le plus de grains de beauté sur les bras
+Kiki a le moins de grains de beauté sur les bras
+Kiki a le plus de grains de beauté sur le visage et le cou
+Kiki a le moins de grains de beauté sur le visage et le cou
+Kiki a le prénom qui gagne le plus de points au Scrabble (selon les règles françaises)
+Kiki a le prénom qui gagne le moins de points au Scrabble (selon les règles françaises)
+Kiki a le nom de famille qui gagne le plus de points au Scrabble (selon les règles françaises)
+Kiki a le nom de famille qui gagne le moins de points au Scrabble (selon les règles françaises)
+Kiki fait le plus de bruit en frappant dans ses mains
